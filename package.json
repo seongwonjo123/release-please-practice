@@ -1,0 +1,22 @@
+{
+  "name": "release-please-practice",
+  "version": "1.0.0",
+  "description": "release-please practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seongwonjo123/release-please-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seongwonjo123/release-please-practice/issues"
+  },
+  "homepage": "https://github.com/seongwonjo123/release-please-practice#readme",
+  "devDependencies": {
+    "release-please": "^17.1.1"
+  }
+}
