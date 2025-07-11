@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.3.7](https://github.com/seongwonjo123/release-please-practice/compare/release-please-practice-v2.3.6...release-please-practice-v2.3.7) (2025-07-11)
+
+
+### 🔥 Bug Fixes
+
+* sha test ([077c30b](https://github.com/seongwonjo123/release-please-practice/commit/077c30be0d6adfa507713df9bced5526f824e472))
+* sha test2 ([af44000](https://github.com/seongwonjo123/release-please-practice/commit/af440001cdc82d9bb6190bcd12d848dfb7d48e29))
+* sha test3 ([17f6e63](https://github.com/seongwonjo123/release-please-practice/commit/17f6e6340f2a1a1058a80f5b7eb93805f79cdd0f))
+
 ## [2.3.6](https://github.com/seongwonjo123/release-please-practice/compare/jsw-good-v2.3.5...jsw-good-v2.3.6) (2025-07-11)
 
 
