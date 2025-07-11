@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.3.0](https://github.com/seongwonjo123/release-please-practice/compare/v2.2.1...v2.3.0) (2025-07-11)
+
+
+### Features
+
+* 2.3.0 ([24c7473](https://github.com/seongwonjo123/release-please-practice/commit/24c7473927c0089964f5be36bbffe4e5f40e2d52))
+* 2.3.0 ([aa2b97f](https://github.com/seongwonjo123/release-please-practice/commit/aa2b97ff5aeb64905f32f85e6eb838b54150d484))
+
 ## [2.2.1](https://github.com/seongwonjo123/release-please-practice/compare/v2.2.0...v2.2.1) (2025-07-11)
 
 
