@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.2.0](https://github.com/seongwonjo123/release-please-practice/compare/v2.1.0...v2.2.0) (2025-07-11)
+
+
+### Features
+
+* manifest 추가 ([8b7d63b](https://github.com/seongwonjo123/release-please-practice/commit/8b7d63b19d4f815c1b35e384bc51cdd4be80d655))
+* readme 수정 ([bcf8482](https://github.com/seongwonjo123/release-please-practice/commit/bcf84827cf013a0ac26c53dec2aa262eb4f9a41a))
+
+
+### Bug Fixes
+
+* develop readme 수정 ([a08a0ef](https://github.com/seongwonjo123/release-please-practice/commit/a08a0eff961d9d9672fdf6bf57fba2361bd99333))
+* target-branch test ([6b885c5](https://github.com/seongwonjo123/release-please-practice/commit/6b885c50ecdc165e57e5ac7f831e5da99dc0e182))
+* target-branch 제거 ([b84d0ec](https://github.com/seongwonjo123/release-please-practice/commit/b84d0ec3ff8d1a45c7f8a501843bb0a2257a41a1))
+
 ## [2.1.0](https://github.com/seongwonjo123/release-please-practice/compare/v2.0.0...v2.1.0) (2025-07-11)
 
 
