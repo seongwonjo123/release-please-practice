@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.2.1](https://github.com/seongwonjo123/release-please-practice/compare/v2.2.0...v2.2.1) (2025-07-11)
+
+
+### Bug Fixes
+
+* readme 수정 ([16ba862](https://github.com/seongwonjo123/release-please-practice/commit/16ba86268eca28b3aeca93cf337154db3ea8ac8c))
+* yml 수정 ([9858260](https://github.com/seongwonjo123/release-please-practice/commit/9858260b9af24a884a692c17041a8e20c8f4361d))
+
 ## [2.2.0](https://github.com/seongwonjo123/release-please-practice/compare/v2.1.0...v2.2.0) (2025-07-11)
 
 
