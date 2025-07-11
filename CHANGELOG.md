@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.7](https://github.com/seongwonjo123/release-please-practice/compare/jsw-good-v2.3.6...jsw-good-v2.3.7) (2025-07-11)
+
+
+### 🔥 Bug Fixes
+
+* sha test ([077c30b](https://github.com/seongwonjo123/release-please-practice/commit/077c30be0d6adfa507713df9bced5526f824e472))
+
 ## [2.3.6](https://github.com/seongwonjo123/release-please-practice/compare/jsw-good-v2.3.5...jsw-good-v2.3.6) (2025-07-11)
 
 
