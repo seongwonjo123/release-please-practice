@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.16](https://github.com/seongwonjo123/release-please-practice/compare/v2.3.15...v2.3.16) (2025-07-11)
+
+
+### ⚙️ Chores
+
+* chore ([21cd2ed](https://github.com/seongwonjo123/release-please-practice/commit/21cd2edd682f3a70633d64b4418382405abda831))
+
 ## [2.3.15](https://github.com/seongwonjo123/release-please-practice/compare/v2.3.14...v2.3.15) (2025-07-11)
 
 
