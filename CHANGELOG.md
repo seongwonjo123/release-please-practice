@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.3.9](https://github.com/seongwonjo123/release-please-practice/compare/v2.3.8...v2.3.9) (2025-07-11)
+
+
+### 🔥 Bug Fixes
+
+* component tag remove ([cf2271b](https://github.com/seongwonjo123/release-please-practice/commit/cf2271be5ab44fb51ec859f6f077e1e23495a728))
+* component tag remove ([24f3d28](https://github.com/seongwonjo123/release-please-practice/commit/24f3d28a0f6070ca458662fbbd84e6af7d8ac50a))
+
 ## [2.3.8](https://github.com/seongwonjo123/release-please-practice/compare/release-please-practice-v2.3.7...release-please-practice-v2.3.8) (2025-07-11)
 
 
