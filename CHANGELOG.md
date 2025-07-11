@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.3.12](https://github.com/seongwonjo123/release-please-practice/compare/release-please-practice-v2.3.11...release-please-practice-v2.3.12) (2025-07-11)
+
+
+### 🔥 Bug Fixes
+
+* test ([7cc7c40](https://github.com/seongwonjo123/release-please-practice/commit/7cc7c40dc922070e71bd9506faab7c79982723c5))
+* test ([b210437](https://github.com/seongwonjo123/release-please-practice/commit/b2104378220057891a665c831a7a129973988bd0))
+* test ([25c0c2f](https://github.com/seongwonjo123/release-please-practice/commit/25c0c2f24f3137d1b40dcb7b5718b3fe9ae92392))
+* test ([982a826](https://github.com/seongwonjo123/release-please-practice/commit/982a826835663a6db390f42b6c0d2c46fbebf679))
+* test ([85bcaf9](https://github.com/seongwonjo123/release-please-practice/commit/85bcaf936790d452ff9fbd0935420ee3df6474f0))
+
+
+### ⚙️ Chores
+
+* release 2.3.11 ([cfe19de](https://github.com/seongwonjo123/release-please-practice/commit/cfe19de693a49f95857b08359e4d2235263aa7b8))
+* release 2.3.11 ([3c3d22b](https://github.com/seongwonjo123/release-please-practice/commit/3c3d22b04fa4be941868c0c6c4d96b1dad25c2b7))
+* test ([14eca46](https://github.com/seongwonjo123/release-please-practice/commit/14eca4600134315a7c3b11aa821711ec76d995a9))
+
 ## [2.3.11](https://github.com/seongwonjo123/release-please-practice/compare/release-please-practice-v2.3.10...release-please-practice-v2.3.11) (2025-07-11)
 
 
