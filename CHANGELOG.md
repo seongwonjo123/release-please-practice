@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.14](https://github.com/seongwonjo123/release-please-practice/compare/v2.3.13...v2.3.14) (2025-07-11)
+
+
+### 🔥 Bug Fixes
+
+* test ([ad6cd00](https://github.com/seongwonjo123/release-please-practice/commit/ad6cd003f83a0f7ec2b4b0edc8ebfaf258fb5ce3))
+
 ## [2.3.13](https://github.com/seongwonjo123/release-please-practice/compare/v2.3.12...v2.3.13) (2025-07-11)
 
 
