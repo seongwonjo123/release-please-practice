@@ -4,6 +4,7 @@
     ".": {
       "release-type": "node",
       "branch-name": "release-${version}",
+      "include-component-in-tag": false,
       "pull-request-title-pattern": "chore: release ${version}",
       "pull-request-header": "This PR was generated with [Release Please]",
       "changelog-sections": [
