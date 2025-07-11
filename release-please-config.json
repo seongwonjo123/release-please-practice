@@ -1,5 +1,6 @@
 {
   "release-type": "node",
+  "changelog-type": "github",
   "pull-request-title-pattern": "chore: release ${version}",
   "pull-request-header": "This PR was generated with [Release Please]",
   "changelog-sections": [
