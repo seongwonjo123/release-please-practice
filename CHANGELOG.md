@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.8](https://github.com/seongwonjo123/release-please-practice/compare/release-please-practice-v2.3.7...release-please-practice-v2.3.8) (2025-07-11)
+
+
+### 🔥 Bug Fixes
+
+* sha test3 ([8fc6c21](https://github.com/seongwonjo123/release-please-practice/commit/8fc6c21efe50e15caefb2eadbb81195aa144cb08))
+
 ## [2.3.7](https://github.com/seongwonjo123/release-please-practice/compare/release-please-practice-v2.3.6...release-please-practice-v2.3.7) (2025-07-11)
 
 
