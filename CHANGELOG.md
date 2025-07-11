@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.3.6](https://github.com/seongwonjo123/release-please-practice/compare/jsw-good-v2.3.5...jsw-good-v2.3.6) (2025-07-11)
+
+
+### 🔥 Bug Fixes
+
+* component name change ([58bbc5d](https://github.com/seongwonjo123/release-please-practice/commit/58bbc5d6a6cb4ee0da35333314879d44284695c8))
+* component name change ([abcb386](https://github.com/seongwonjo123/release-please-practice/commit/abcb386bc23d63ab9c56c89ad0233c01230cd5f4))
+
 ## [2.3.5](https://github.com/seongwonjo123/release-please-practice/compare/release-please-practice-v2.3.4...release-please-practice-v2.3.5) (2025-07-11)
 
 
