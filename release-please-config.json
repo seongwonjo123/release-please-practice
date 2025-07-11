@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
-  "last-release-sha": "edbcd1f03f0eba8fbc9095d91af8926666bba753",
+  "last-release-sha": "359cbd7cc41549cfa95d2c0ea4296e252d18cdd7",
   "packages": {
     ".": {
       "release-type": "node",
       "include-component-in-tag": false,
       "pull-request-title-pattern": "chore: release ${version}",
       "pull-request-header": "This PR was generated with [Release Please]",
-      "branch-name": "main",
+      "branch-name": "release-${version}",
       "changelog-sections": [
         { "type": "feat", "section": "🚀 New Features", "hidden": false },
         { "type": "feature", "section": "🚀 New Features", "hidden": false },
