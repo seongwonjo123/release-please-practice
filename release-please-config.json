@@ -3,6 +3,7 @@
   "packages": {
     ".": {
       "release-type": "node",
+      "include-component-in-tag": false,
       "pull-request-title-pattern": "chore: release ${version}",
       "pull-request-header": "This PR was generated with [Release Please]",
       "branch-name": "main",
