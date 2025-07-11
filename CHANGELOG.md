@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.3.5](https://github.com/seongwonjo123/release-please-practice/compare/release-please-practice-v2.3.4...release-please-practice-v2.3.5) (2025-07-11)
+
+
+### 🔥 Bug Fixes
+
+* changelog-type github ([f9bb3a0](https://github.com/seongwonjo123/release-please-practice/commit/f9bb3a03b51494d229ada7174feba017b13bf772))
+* fix ([5cd6c07](https://github.com/seongwonjo123/release-please-practice/commit/5cd6c074b866d8d730707d91f4c3e5203c6bf3d7))
+* fix ([923c9a6](https://github.com/seongwonjo123/release-please-practice/commit/923c9a6e08b406c1c63877e9a54efc41dc31b870))
+* fix ([7f83151](https://github.com/seongwonjo123/release-please-practice/commit/7f8315125a928e01f9de74e872b136220b673872))
+* fix ([64c1cea](https://github.com/seongwonjo123/release-please-practice/commit/64c1cead7dde8fc8a27e55f68816ee5e0a0eecda))
+* fix ([c8f66ce](https://github.com/seongwonjo123/release-please-practice/commit/c8f66cea582b319defd0e2a480bf46aa2fd9edbb))
+* fix ([22c2c53](https://github.com/seongwonjo123/release-please-practice/commit/22c2c53c32705ea641742d7409f7f601bd0ded9f))
+* fix ([97d36f6](https://github.com/seongwonjo123/release-please-practice/commit/97d36f6cfd8eabec22bedaf1bbbf4f974e6adb0e))
+* fix ([732be54](https://github.com/seongwonjo123/release-please-practice/commit/732be543c7eb46152bc0b99b535f00c808ff2dea))
+* fixfix ([f05b03d](https://github.com/seongwonjo123/release-please-practice/commit/f05b03d9ff74cd58148a5830614a53e5b8eb6592))
+* fixfixfix ([e6f3b86](https://github.com/seongwonjo123/release-please-practice/commit/e6f3b86ba5d7c1959a6f184e292183e48500becc))
+* sha 추가 ([66a0b5d](https://github.com/seongwonjo123/release-please-practice/commit/66a0b5da41c2c6c73dc5933a0a68b15ad3b2af86))
+* sha 추가2 ([ba898cb](https://github.com/seongwonjo123/release-please-practice/commit/ba898cbbbf9f20d4d37a94d5f2cfe46c28541417))
+
 ## [2.3.4](https://github.com/seongwonjo123/release-please-practice/compare/v2.3.3...v2.3.4) (2025-07-11)
 
 
