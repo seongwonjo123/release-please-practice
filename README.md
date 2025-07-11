@@ -11,3 +11,4 @@ main 브랜치 커밋 추가
 2.2.1 gogo
 2.3.0 gogo
 2.4.0 gogo
+2.5.0 gogo
