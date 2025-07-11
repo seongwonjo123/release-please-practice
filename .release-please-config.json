@@ -1,4 +1,5 @@
 {
+  "group-pull-request-title-pattern": "chore: release ${version}",
   "changelog-sections": [
     {
       "type": "docs",
