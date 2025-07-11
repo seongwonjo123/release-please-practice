@@ -1,6 +1,5 @@
 {
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
-  "last-release-sha": "dea3f63f127e7ecd0d69bb3bec03fd3939af1d61",
   "packages": {
     ".": {
       "component": "jsw-good",
