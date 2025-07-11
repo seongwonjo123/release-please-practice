@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://github.com/seongwonjo123/release-please-practice/compare/v2.0.0...v2.1.0) (2025-07-11)
+
+
+### Features
+
+* 토큰 추가 ([c439f18](https://github.com/seongwonjo123/release-please-practice/commit/c439f180894a81db37d9546cc316a06e570b9a8c))
+
+
+### Bug Fixes
+
+* readme 수정 ([ff6382b](https://github.com/seongwonjo123/release-please-practice/commit/ff6382b760039e3ab4751b3f1606211cb192b281))
+
 ## [2.0.0](https://github.com/seongwonjo123/release-please-practice/compare/v1.2.0...v2.0.0) (2025-07-11)
 
 
