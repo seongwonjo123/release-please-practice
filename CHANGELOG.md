@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.3.15](https://github.com/seongwonjo123/release-please-practice/compare/v2.3.14...v2.3.15) (2025-07-11)
+
+
+### 🔥 Bug Fixes
+
+* version 15 ([6f6933a](https://github.com/seongwonjo123/release-please-practice/commit/6f6933abb341c8f6cdf6a3044fa05821a9e86681))
+
+
+### ⚙️ Chores
+
+* sha 제거 ([690854e](https://github.com/seongwonjo123/release-please-practice/commit/690854e1b483950396a1c19492057afa2d83c3e2))
+
 ## [2.3.14](https://github.com/seongwonjo123/release-please-practice/compare/v2.3.13...v2.3.14) (2025-07-11)
 
 
