@@ -1,6 +1,6 @@
 {
   "name": "release-please-practice",
-  "version": "2.3.17",
+  "version": "2.3.18",
   "description": "release-please practice",
   "main": "index.js",
   "scripts": {
